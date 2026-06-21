@@ -31,8 +31,8 @@
     <div class="login-container">
         <div class="card card-primary card-outline mb-4">
             <div class="card-header text-center">
-            <img src="assets/img/gambar1.png" width="80" height="80" alt="icon">
-                <h3 class="card-title float-none">scout coco store</h3>
+            <img src="assets/img/gambar2.png" width="80" height="80" alt="icon">
+                <h3 class="card-title float-none">Imperial Motor</h3>
             </div>
             <form action="login.php" method="post">
                 <div class="card-body">
