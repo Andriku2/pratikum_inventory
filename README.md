@@ -37,6 +37,9 @@ Gambar 1.2 REGISTRASI
 
 
 <img width="716" height="403" alt="image" src="https://github.com/user-attachments/assets/81e8fa26-ed78-4696-9e3b-8affa9bc8b88" />
+<img width="717" height="403" alt="image" src="https://github.com/user-attachments/assets/b8597aaf-b497-4bc8-b125-97ac94c6439b" />
+
+
 
 
 Gambar 1.3 TAMPILAN ADMIN
@@ -46,6 +49,8 @@ Gambar 1.3 TAMPILAN ADMIN
 Gambar 1.4 PROFIL
 
 <img width="860" height="484" alt="image" src="https://github.com/user-attachments/assets/c482fb9b-58ed-46b9-8440-858af89e0594" />
+<img width="892" height="502" alt="image" src="https://github.com/user-attachments/assets/db01a596-00dc-4be3-8ad3-4d28cbc35454" />
+
 
 
 Gambar 1.5 TAMPILAN USER
@@ -54,7 +59,8 @@ Gambar 1.5 TAMPILAN USER
 
 Gambar 1.6 TAMPILAN TAMBAH DATA
 
-lINK GITHUB
+
+LINK GITHUB
 
 
 
