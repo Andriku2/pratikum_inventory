@@ -65,6 +65,7 @@ https://github.com/Andriku2/pratikum_inventory
 
 
 LINK PRESENTASI
+https://youtu.be/uw0DTx2e56M
 
 
 
